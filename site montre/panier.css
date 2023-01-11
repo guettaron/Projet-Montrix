@@ -1,0 +1,19 @@
+#imgPanier
+{
+    width: 30%;
+}
+td{
+    width: 40%;
+}
+p{
+    margin-top: 75px;
+}
+th{
+    margin-left: 10%;
+}
+#btn
+{
+    text-align: center;
+    padding-top: 3%;
+    padding-bottom: 3%;
+}
